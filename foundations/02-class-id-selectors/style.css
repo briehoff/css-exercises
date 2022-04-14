@@ -1,5 +1,20 @@
-p {
-    background-color: rgb(218, 82, 123);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+.odd {
+    background-color: rgb(211, 144, 164);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.size {
+    font-size: 24px;
+}
+
+#line2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#line4 {
+    background-color: rgb(131, 228, 131);
+    font-size: 24px;
+    font-weight: bold;
 }
 
