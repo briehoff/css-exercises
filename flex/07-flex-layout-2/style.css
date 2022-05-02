@@ -21,9 +21,22 @@ body {
   color: darkmagenta;
 }
 
+.container {
+  display: flex;
+}
+
 .sidebar {
   width: 300px;
   background: royalblue;
+  flex: 1 0 auto;
+}
+
+ul, a:link {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: #eee;
 }
 
 .card {
